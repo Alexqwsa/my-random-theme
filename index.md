@@ -1,4 +1,7 @@
 ---
+title: home
 ---
 
-# tonic-starter
+# my-random-theme
+
+my-random-theme is a random jekyll theme
